@@ -16,7 +16,9 @@
 2. Настройте `application.properties`:
 
     vk.confirmation.code=confirmation_code
+   
     vk.access.token=access_token
+   
     vk.secret.key=secret_key
 
    вставьте свои значения
