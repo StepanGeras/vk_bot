@@ -1,2 +1,2 @@
-# VK_Bot
+# VK Bot
 A bot for VKontakte that quotes messages sent to it.
